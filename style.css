@@ -28,7 +28,7 @@ body.menu-toggled > .meta-link > span {
   color: rgb(30, 30, 30);
 }
 
-#git-link > i {
+i {
   color: #fff;
 }
 
@@ -65,4 +65,12 @@ body.menu-toggled > .meta-link > span {
   color: white;
   font-family: "Rubik", sans-serif;
   font-weight: 500;
+}
+
+#seneca-link {
+  margin-bottom: 50px;
+}
+
+#library-link {
+  margin-bottom: 100px;
 }
